@@ -156,7 +156,7 @@ cd NOSC-Website
 
 
 
-
+<!--
 <h2 align="center"> Project Contributors </h2>
 
 <div align="center">
@@ -164,5 +164,16 @@ cd NOSC-Website
     <img src="https://contrib.rocks/image?repo=NITRR-Open-Source-Community/NOSC-Website" />
     </a>
 </div>
+-->
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- [![All Contributors](https://img.shields.io/github/all-contributors/NITRR-Open-Source-Community/NOSC-Website/?color=ee8449&style=flat-square)](#contributors) -->
 
